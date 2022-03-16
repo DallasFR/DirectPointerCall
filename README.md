@@ -9,7 +9,7 @@ How it's work ?
 3) Return pointer of targeted function
 4) Execute function
 
-#For reverser
+# For reverser
 
 You need to make a program to parse all API/Fonction with hashing algorythm to find match with hash in program.
 ![alt text](https://raw.githubusercontent.com/DallasFR/DirectPointerCall/main/images/ida_screen.PNG)
